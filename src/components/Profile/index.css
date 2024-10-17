@@ -1,0 +1,16 @@
+.profile-bg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  height: 220px;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 30px;
+}
+.profile-head {
+  color: blueviolet;
+  font-size: 24px;
+}
+.profile-bio {
+  color: #202020;
+  font-size: 16px;
+}
